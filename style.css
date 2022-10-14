@@ -282,3 +282,10 @@ footer
         margin: 0 40%; 
     }
 }
+@media(max-width:443px)
+{
+    .input-field
+{
+    width: 300px;
+}
+}
