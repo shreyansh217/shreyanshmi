@@ -167,7 +167,7 @@ width: 100%;
 }
 #section4
 {
-    background-image: url('contact.png');
+    background-image: url('gg.png');
     background-size: cover;
     display: flex;
     /* justify-content: center; */
@@ -176,7 +176,7 @@ width: 100%;
 width: 100%;
     /* align-items: center; */
     flex-direction: column;
-    background-color:blueviolet;
+    /* background-color:blueviolet; */
 /* padding-bottom: 10%; */
 }
 /* #form1
