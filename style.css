@@ -123,8 +123,11 @@ padding-bottom: 5%;
 .Skillsh1
 
 {
+    text-shadow: 2px 2px 4px #000000;
     margin-top: 40px;
-font-size: 8vh;    
+font-size: 8vh;   
+/* font-family: 'Alkalami', serif; */
+font-family: 'Bitter', serif;
 }
 #item1
 {
@@ -164,7 +167,7 @@ width: 100%;
 }
 #section4
 {
-    background-image: url('conback.png');
+    background-image: url('contact.png');
     background-size: cover;
     display: flex;
     /* justify-content: center; */
@@ -215,10 +218,14 @@ form{
     font-size: 18px;
     padding: 7px;
     cursor: pointer;
+    box-shadow:2px 2px 4px whitesmoke;
 }
 .btn:hover{
-   background-color: rgb(73, 102, 35); 
+   background-color: rgb(39, 44, 46); 
    color: white;
+   border:2px solid wheat;
+   box-shadow:2px 2px 4px rgb(20, 11, 11);
+   ;
 }
 /* footer */
 footer
@@ -237,6 +244,9 @@ footer
 {
     color:white;
     font-size: 10vh;
+    font-family: 'Bitter', serif;
+    text-shadow: 2px 2px 4px #000000;
+
 }
 .logo1
 {
